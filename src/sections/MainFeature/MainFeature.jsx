@@ -17,7 +17,7 @@ export default function MainFeature(){
                     sm:mx-0
                 " 
             >
-                <div className="w-full sm:hidden bg-red-100/50 my-4" style={{aspectRatio:"393/474"}}></div>
+                <div className="w-full sm:hidden my-4" style={{aspectRatio:"393/474"}}></div>
                 <div className="w-full sm:w-2/3 lg:max-w-[453px] text-black sm:text-white sm:p-[55px] space-y-5 sm:space-y-8 z-50">
                     <p className="font-np-bold-cond">Project Rock</p>
                     <h2 className="font-np-bold text-feature-2-mobile lg:text-feature-2">EVERY SIDE OF STRONG</h2>
