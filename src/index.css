@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Neue Plak Bold';
+  src: url('./assets/fonts/Neue-Plak-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Plak Cond Black';
+  src: url('./assets/fonts/Neue-Plak-CondBlack.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Plak Regular';
+  src: url('./assets/fonts/Neue-Plak-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Plak SemiBold';
+  src: url('./assets/fonts/Neue-Plak-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Applying the fonts to elements */
+/* body {
+  font-family: 'Neue Plak Regular', sans-serif;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
